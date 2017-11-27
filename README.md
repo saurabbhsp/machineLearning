@@ -9,3 +9,7 @@ Following are the projects present in this repository. Each one uses different d
 * Gradient descent
   * Armijo step length Controller
   * Bold driver step length controller
+* Logistic regression
+  * Stochastic gradient ascent
+  * Bold driver step length controller
+  * Adaptive gradient step length controller
