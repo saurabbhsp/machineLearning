@@ -15,3 +15,4 @@ Following are the projects present in this repository. Each one uses different d
   * Adaptive gradient step length controller
 * Regularization
   * Ridge-Regression
+  * Grid search with K-fold cross validation
