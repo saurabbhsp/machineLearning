@@ -16,3 +16,4 @@ Following are the projects present in this repository. Each one uses different d
 * Regularization
   * Ridge-Regression
   * Grid search with K-fold cross validation
+  * Newton method
