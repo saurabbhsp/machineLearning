@@ -13,3 +13,5 @@ Following are the projects present in this repository. Each one uses different d
   * Stochastic gradient ascent
   * Bold driver step length controller
   * Adaptive gradient step length controller
+* Regularization
+  * Ridge-Regression
