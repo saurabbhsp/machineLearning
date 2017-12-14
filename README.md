@@ -17,3 +17,8 @@ Following are the projects present in this repository. Each one uses different d
   * Ridge-Regression
   * Grid search with K-fold cross validation
   * Newton method
+* Sklearn
+  * Linear regression
+  * Ridge-Regression
+  * Lasso-Regression
+* Quasi Newton method for regression
