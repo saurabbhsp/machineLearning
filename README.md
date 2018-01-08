@@ -18,6 +18,8 @@ Following are the projects present in this repository. Each one uses different d
   * Grid search with K-fold cross validation
   * Newton method
 * KNN
+  * KNN Classifier
+  * KNN Regressor
 * Decision Trees
   * Entropy
   * Gini Index
