@@ -17,7 +17,14 @@ Following are the projects present in this repository. Each one uses different d
   * Ridge-Regression
   * Grid search with K-fold cross validation
   * Newton method
+* KNN
+* Decision Trees
+  * Entropy
+  * Gini Index
+  * Pruning
 * Sklearn
   * Linear regression
   * Ridge-Regression
   * Lasso-Regression
+  * KNN and partition trees
+ 
