@@ -30,4 +30,7 @@ Following are the projects present in this repository. Each one uses different d
   * Ridge-Regression
   * Lasso-Regression
   * KNN and partition trees
+  * SVM Spam/Ham filter
+* LibSVM
+  * SVM spam/Ham filter
  
