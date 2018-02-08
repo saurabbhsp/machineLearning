@@ -13,10 +13,11 @@ Following are the projects present in this repository. Each one uses different d
   * Stochastic gradient ascent
   * Bold driver step length controller
   * Adaptive gradient step length controller
+  * Newton
 * Regularization
   * Ridge-Regression
 * Grid search with K-fold cross validation
-* Newton method
+* Kmeans
 * Elastic Net
 * KNN
   * KNN Classifier
